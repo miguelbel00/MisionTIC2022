@@ -1,4 +1,4 @@
-#Miguel Angel Beltranp
+#Miguel Angel Beltran
 #UDFJC
 
 #al momento de almacenar el string reemplazamos el " " por ""
